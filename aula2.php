@@ -26,7 +26,7 @@
 
     <?php
     
-        if ($_G) {
+        if ($_GET) {
         
             //Rcebe dados do formulário
             $num1=$_GET['txtv1'];
